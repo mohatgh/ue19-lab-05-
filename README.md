@@ -10,7 +10,7 @@ Cette application interroge une API publique pour afficher une blague aléatoire
 
 1. Clonez le repository :
    ```bash
-   git clone https://github.com/<votre-utilisateur>/ue19-lab-05.git
+   git clone https://github.com/<mohatgh>/ue19-lab-05.git
    ```
 
 2. Installez les dépendances :
